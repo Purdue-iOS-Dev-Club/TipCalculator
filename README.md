@@ -134,7 +134,7 @@ UIView.animateWithDuration(0.4, animations: {
 
 Once you've completed the Tip Calculator application (**including adding a settings screen**), please [push your app via Github](https://help.github.com/articles/create-a-repo). All submissions occur via Github and we require each submission to follow a particular format which includes a **clearly documented README** with a GIF walkthrough and **an issue raised** as detailed below.
 
-<img src='http://i.imgur.com/9Wvkjxgl.png' title='Submitted Issue' width='' alt='Submitted Issue' />
+<img src='https://github.com/Purdue-iOS-Dev-Club/TipCalculator/blob/master/submit.png' title='Submitted Issue' width='' alt='Submitted Issue' />
 
 Submit your project by **creating an issue on your repository** and adding the Github handle (**@hao44le**) to the issue body so we can review the submission. Also be sure to **include a README** containing a GIF walkthrough using [LiceCap](http://www.cockos.com/licecap/) of the app demonstrating how it works with required user stories completed. Use [this README template](../../../snippets/intro_to_ios/readme_templates/prework_readme.md?raw=true).
 
