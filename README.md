@@ -166,5 +166,4 @@ Please **reply back to the github issue** after pushing new features. Be sure to
 Here are some examples of excellent past submissions. It only takes a couple hours to implement the basic version, but you should spend more time exploring the iOS framework.
 
 <img src='https://camo.githubusercontent.com/6db2e482d00402ded96063c56842c620a34a7bac/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f33303138363938352f746970732532307265636f7264696e672e676966' title='img' width='200' alt='img' />
-<img src='http://i.imgur.com/L4zoPDh.gif' title='img' width='200' alt='img' />
 <img src='https://github.com/peterbai/ios-tip-calculator/raw/master/gif/gif-currency-01.gif' title='img' width='200' alt='img' />
