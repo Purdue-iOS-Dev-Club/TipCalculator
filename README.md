@@ -146,7 +146,7 @@ Please **review the following checklist** to ensure your submission is valid:
  * Did you implement both the **TipViewController** and the **SettingsViewController**?
  * Did you successfully **push your code to github**? Can you see the code on github?
  * Did you **add a README** which includes a **GIF walkthrough** of the app's functionality?
- * Did you **create an issue** on the repo and include **/cc @codepathreview** in the issue body?
+ * Did you **create an issue** on the repo and include **/cc @hao44le** in the issue body?
 
 ## 6. Extend your app, improve UI, add features
 
@@ -165,6 +165,6 @@ Please **reply back to the github issue** after pushing new features. Be sure to
 
 Here are some examples of excellent past submissions. It only takes a couple hours to implement the basic version, but you should spend more time exploring the iOS framework.
 
-<img src='https://github.com/naeims/tipcalculator/raw/master/anim_tip_calculator.gif' title='img' width='200' alt='img' />
+<img src='https://camo.githubusercontent.com/6db2e482d00402ded96063c56842c620a34a7bac/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f33303138363938352f746970732532307265636f7264696e672e676966' title='img' width='200' alt='img' />
 <img src='http://i.imgur.com/8Ra8d4j.gif' title='img' width='200' alt='img' />
 <img src='https://github.com/peterbai/ios-tip-calculator/raw/master/gif/gif-currency-01.gif' title='img' width='200' alt='img' />
